@@ -1,0 +1,7 @@
+123546987
+[200~Create repository
+  Inside repository create file
+  Goto cmd and generate ssh keys, and copy public key and paste in gitgub
+  Goto gitbase and clone git clone github code paste.
+
+
